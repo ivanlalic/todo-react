@@ -1,6 +1,6 @@
 {
   "name": "react-todo",
-  "homepage": "ttps://github.com/ivanlalic/react-todo.git",
+  "homepage": "https://github.com/ivanlalic/react-todo.git",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
